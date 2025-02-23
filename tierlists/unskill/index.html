@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link rel="stylesheet" href="style.css">
+    
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+    <title>Responsive Navigation Menu Bar</title>
+</head>
+<body>
+    <nav>
+        <div class="nav-bar">
+            <span class="logo"><a href="#">Tierlist</a></span>
+            <i class='bx bx-menu sidebarOpen' ></i>
+            <div class="menu">
+                <div class="logo-toggle">
+                    <span class="logo"><a href="#">Tierlist</a></span>
+                    <i class='bx bx-x sidebarClose'></i>
+                </div>
+                <ul class="nav-links">
+                    <li><a href="../../index.html#home">Home</a></li>
+                    <li><a href="../unskill/index.html">Unskill</a></li>
+                    <li><a href="../fruit/index.html">Fruit</a></li>
+                    <li><a href="index.html">1v1 logs</a></li>
+                    <li><a href="../warlog/index.html">War logs</a></li>
+                    <li><a href="../skill/index.html">Skill</a></li>
+                </ul>
+                
+                
+            </div>
+            <div class="darkLight-searchBox">
+                <div class="dark-light">
+                    <i class='bx bxs-moon moon'></i>
+                    <i class='bx bxs-sun sun' ></i>
+                   </div>
+
+                <div class="searchBox">
+                    <div class ="searchToggle">
+                        <i class='bx bx-x cancel'></i>
+                        <i class='bx bx-search search' ></i> 
+                </div>
+                        <div class="search-field">
+                            <input type="text" placeholder="Search...">
+                            <i class='bx bx-search ' ></i>
+                        </div>
+                
+            </div>
+        </div>
+    </nav>
+    <main class="table" id="customers_table">
+        <section class="table__header">
+            <h1> Tierlist Bloxfruits fruit</h1>
+            <div class="input-group">
+                <input type="search" placeholder="Search Data...">
+                <img src="images/search.png" alt="">
+            </div>
+            <div class="export__file">
+                <label for="export-file" class="export__file-btn" title="Export File"></label>
+                <input type="checkbox" id="export-file">
+                <div class="export__file-options">
+                    <label>Export As &nbsp; &#10140;</label>
+                    <label for="export-file" id="toPDF">PDF <img src="images/pdf.png" alt=""></label>
+                    <label for="export-file" id="toJSON">JSON <img src="images/json.png" alt=""></label>
+                    <label for="export-file" id="toCSV">CSV <img src="images/csv.png" alt=""></label>
+                    <label for="export-file" id="toEXCEL">EXCEL <img src="images/excel.png" alt=""></label>
+                </div>
+            </div>
+        </section>
+        <section class="table__body">
+            <table>
+                <thead>
+                    <tr>
+                        <th> Ranking <span class="icon-arrow">&UpArrow;</span></th>
+                        <th> User <span class="icon-arrow">&UpArrow;</span></th>
+                        <th> Level <span class="icon-arrow">&UpArrow;</span></th>
+                        <th> Tryout Date <span class="icon-arrow">&UpArrow;</span></th>
+                        <th> Region <span class="icon-arrow">&UpArrow;</span></th>
+                        <th> set<span class="icon-arrow">&UpArrow;</span></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td> 1 </td>
+                        <td> <img src="https://cdn.discordapp.com/avatars/649085416682553344/1a8a4540927ad7b6856f6ebfe8806283.png" alt="aliced.scarlet">AliceDscarlet</td>
+                        <td> topglobal😈 </td>
+                        <td> idk </td>
+                        <td>
+                            <p class="status NA">NA</p>
+                        </td>
+                        <td> <strong> unskill </strong></td>
+                    </tr>
+                    <tr>
+                        <td> 2 </td>
+                        <td><img src="images/Jeet Saru.png" alt=""> Vyx </td>
+                        <td> hola </td>
+                        <td> idk </td>
+                        <td>
+                            <p class="status NA">NA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 3</td>
+                        <td><img src="images/Sonal Gharti.jpg" alt=""> a </td>
+                        <td> lugar </td>
+                        <td> fecha </td>
+                        <td>
+                            <p class="status NA">NA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 4</td>
+                        <td><img src="images/Alson GC.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 25 May, 2023 </td>
+                        <td>
+                            <p class="status NA">NA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 5</td>
+                        <td><img src="images/Sarita Limbu.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 23 Apr, 2023 </td>
+                        <td>
+                            <p class="status EU">EU</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 6</td>
+                        <td><img src="images/Alex Gonley.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 23 Apr, 2023 </td>
+                        <td>
+                            <p class="status SA">SA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 7</td>
+                        <td><img src="images/Alson GC.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 20 May, 2023 </td>
+                        <td>
+                            <p class="status NA">NA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 8</td>
+                        <td><img src="images/Sarita Limbu.jpg" alt=""> PERSONA</td>
+                        <td> NPC </td>
+                        <td> 30 Feb, 2023 </td>
+                        <td>
+                            <p class="status EU">EU</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 9</td>
+                        <td><img src="images/Alex Gonley.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 22 Dec, 2023 </td>
+                        <td>
+                            <p class="status SA">SA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 9</td>
+                        <td><img src="images/Alex Gonley.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 22 Dec, 2023 </td>
+                        <td>
+                            <p class="status SA">SA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 9</td>
+                        <td><img src="images/Alex Gonley.jpg" alt=""> PERSONA </td>
+                        <td> NPC </td>
+                        <td> 22 Dec, 2023 </td>
+                        <td>
+                            <p class="status SA">SA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 9</td>
+                        <td><img src="images/Alex Gonley.jpg" alt=""> PERSONA </td>
+                        <td> hola </td>
+                        <td> 22 Dec, 2023 </td>
+                        <td>
+                            <p class="status SA">SA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    <tr>
+                        <td> 1</td>
+                        <td><img src="https://cdn.discordapp.com/avatars/919294434162638909/3a2fc8a5a493a88391bb54b655960654.png" alt=""> zax </td>
+                        <td> hola </td>
+                        <td> hola </td>
+                        <td>
+                            <p class="status NA">NA</p>
+                        </td>
+                        <td> <strong>unskill</strong> </td>
+                    </tr>
+                    
+                </tbody>
+            </table>
+        </section>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
