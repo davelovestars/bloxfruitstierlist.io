@@ -9,13 +9,14 @@
 
 :root{
     --body-color:#E4E9F7;
-    --nav-color:#4070F4;
+    --nav-color:#40f44f;
     --side-nav:#010718;
     --text-color:#FFF;
     --search-bar:#F2F2F2;
     --search-text:#010718;
-    --blue-font: url(https://cdn.discordapp.com/attachments/1185680067905458276/1343278461426602177/desktop-wallpaper-anime-scenery-background-sdeer--in-2019-big-anime-landscape.jpg?ex=67bcb10e&is=67bb5f8e&hm=7d888f9b3feca08d28ee8c3c674dd4290bd41a1b3b86a00ef251b3cbf48b1bb3&) center / cover;
+    --blue-font: url(https://cdn.discordapp.com/attachments/1017174579392827395/1343633277772239002/aisjda.gif?ex=67bdfb80&is=67bcaa00&hm=6b5d4ab416afd53b0acba71c60bc1a0eeda1074d742bcccced88e353a19e1120&) center / cover;
 } 
+
 body{
     height: 100vh;
     background-color: var(--body-color);
