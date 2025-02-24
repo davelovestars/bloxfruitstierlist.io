@@ -13,6 +13,15 @@
     <title>Responsive Navigation Menu Bar</title>
 </head>
 <body>
+    <audio id="bg-music"   loop>
+        <source src="phonk.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <script>
+        function playAudio() {
+            document.getElementById("bg-music").play();
+        }
+    </script>
     <nav>
         <div class="nav-bar">
             <span class="logo"><a href="#">Tierlist</a></span>
