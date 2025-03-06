@@ -1,0 +1,52 @@
+----------TRYOUTS--------------------
+Para los tryouts puedes usar este formato después de crear el ticket para tomar tu información mas fácil:
+{
+	User:
+	main:(unskill(fruit/meta/mixed)skill(rumble/paw))
+	raza: (opcional)
+	crew: (opcional)
+	region: (obligatorio)
+	que hosts juegas: (obligatorio )
+	
+}
+las reglas para los tryouts:
+{
+       -no run excesivo
+       -no tabbing (en caso de que se acuse a uno mande pruebas)
+       -no v4
+       -no c portal,v portal
+       -si es meta solo ttk no otras espadas 
+       - en fruit o mixed puedes usar cualquier fruta pero sin transformación a excepción de la diamond
+       - es ft5 en 2 hosts obligatorios (1 del tryouter y 1 del que pidió) si los 2 son de un host pueden hacer ft7
+       - es importante que las 2 personas saquen clips de las kills o grabaciones con medal (para tener las pruebas del tryout y evitar acusaciones)
+       - no usar hacks(exploits o externos) como aimbot(sobre las macros sencillamente no hay forma de comprobar que se usa o no )
+       - porfavor no sean toxicos 
+       - no reconectarse, apenas empieza el tryout al primer reconectado es directamente win de esa region para el tryouter ósea (5-0) sin importar si se jugaron mas                                                      	rondas , la unica forma de recuperar los puntos perdidos de la ronda seria mandando captura que te saco de conexión y no de reconeccion
+
+EL INCUMPLIMIENTO DE ESTAS NORMAS TE PUEDE DAR UNA SANCION DEPENDIENDO DE CUAL (si es exploits es directamente blacklist de la tierlist y 10-0( se pedira ss para comprobar los cheats con 5 minutos de timer) si es encontrado en ss es blacklist si no se realiza el ss es blacklist de 14 dias)
+las demas solo te pueden afectar el tryout y no afuera de el
+!!! para ser tryouter nesecitas ser rango B o superior!!!
+
+}
+----------SYSTEMA DE RANKING--------------------
+Basicamente esta dividido como en 8 rangos aproximadamente
+{	
+	the ones above all  (el mejor puntaje de la region NA/SA/EU) solo hay 3 y para decidirlo seria cada 24 dias o mes)
+	top globales (1500 puntos para arriba)(no esta llamado asi claramente pero serian los mejores de cada host (florida,texas,california,oregon Para NA) en EU y SA seria lo mismo uno para cada host y serian actualizados cada 3-7 dias
+	S superior (1400 puntos)
+	S inferior (1300 puntos)
+	A superior (1150 puntos)
+	A inferior (950 puntos)
+	B superior (850 puntos)
+	B inferior (700 puntos)
+	C superior (650 puntos)
+	C inferior (500 puntos)
+	D superior (450 puntos)
+	D inferior (250 puntos)
+}
+el sistema de puntos seria masomenos como si fuera elo 
+{
+       -hay dos formas de subir de rango que seria pedirle tryout a una persona de mas alto rango o con mas puntos que tu o pedirle tryout a los que ya tienen rango que se les agregara a un ticket y tendran 1 supervisor
+       la formula de puntos seria: total = 2+x(suma de puntos del rango de la persona mientras mas tenga mas se agrega a x)/10 | para restar seria asi: total = resultado(suma total de puntos ) - 1(x/20)
+       -la forma en la que ganas los puntos es muy sencilla si es ft5 en dos hosts osea 10 rondas en total cada ronda que ganes te dara 2 puntos, osea 20 en total, pero existe un aumento de puntos dependiendo contra quien jugaste por  	ejemplo si eres rango B inferior y juegas contra un rango B superior obtienes los 20 puntos pero si juegas contra un rango A inferior obtendras 40 puntos, por cada rango que la persona tenga mas que tu se te aumentaran 20 puntos 	y por cada ronda que pierdas se te restara 1 punto en total osea que si quedas 10-9 contra uno de 1 rango superior tuyo te dara 11 puntos en total, si la persona es de tu mismo rango ganaras 15 puntos en total sin perder puntos  
+}
