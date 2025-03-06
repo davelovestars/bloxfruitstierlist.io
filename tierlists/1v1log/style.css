@@ -14,7 +14,7 @@
     --text-color:#FFF;
     --search-bar:#F2F2F2;
     --search-text:#010718;
-    --blue-font: url(https://cdn.discordapp.com/attachments/1017174579392827395/1343632550249365645/payaso.gif?ex=67bdfad3&is=67bca953&hm=c32a811b0b0b66072d8167234f0392a3b45db63f169e1b8d338be6638a816244&) center / cover;
+    --blue-font: url('gifs/payaso.gif') center / cover;
 } 
 body{
     height: 100vh;
@@ -28,7 +28,7 @@ body.dark{
     --text-color:#CCC;
     --search-bar:#242526;
     --search-text:#010718;
-    --blue-font: url(https://cdn.discordapp.com/attachments/1017174579392827395/1343634617030410353/kajdskjas.gif?ex=67bdfcc0&is=67bcab40&hm=044eaac884c19f50117d6389e12ffe3ed2ad658cae51eb3d12b4e58c5370832f&) center / cover;
+    --blue-font: url('gifs/kajdskjas.gif') center / cover;
 }
 
 
