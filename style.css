@@ -14,7 +14,7 @@
     --text-color:#FFF;
     --search-bar:#F2F2F2;
     --search-text:#010718;
-    --blue-font: url("/gifs/hola.gif") center / cover;
+    --blue-font: url("gifs/hola.gif") center / cover;
 } 
 body{
     height: 100vh;
@@ -28,7 +28,7 @@ body.dark{
     --text-color:#CCC;
     --search-bar:#242526;
     --search-text:#010718;
-    --blue-font: url("/gifs/hola.gif") center / cover;
+    --blue-font: url("gifs/hola.gif") center / cover;
 }
 
 
