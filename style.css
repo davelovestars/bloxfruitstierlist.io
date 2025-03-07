@@ -14,7 +14,7 @@
     --text-color:#FFF;
     --search-bar:#F2F2F2;
     --search-text:#010718;
-    --blue-font: url("https://cdn.discordapp.com/attachments/1185680067905458276/1343329820066709668/09244c7f7dd4d17b0484370f32db6641.gif?ex=67bce0e2&is=67bb8f62&hm=d2be7952cae3c7f50833a53996173468a1424a073015568db8141fb0f3b23fd6&") center / cover;
+    --blue-font: url("/gifs/hola.gif") center / cover;
 } 
 body{
     height: 100vh;
@@ -28,7 +28,7 @@ body.dark{
     --text-color:#CCC;
     --search-bar:#242526;
     --search-text:#010718;
-    --blue-font: url(https://cdn.discordapp.com/attachments/1185680067905458276/1343330380899422279/308bb17aa483c6fadae58940c66cf79b.gif?ex=67bce168&is=67bb8fe8&hm=1f2718d5ef4c92f19673d0cc4b0856c54ce4ab5cd0c734f31c52c4fa5de86a2a&) center / cover;
+    --blue-font: url("/gifs/hola.gif") center / cover;
 }
 
 
